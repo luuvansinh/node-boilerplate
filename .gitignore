@@ -1,0 +1,8 @@
+idea
+.vscode
+.nyc_output
+build/
+dist/
+.env
+node_modules
+apidoc

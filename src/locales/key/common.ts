@@ -1,0 +1,20 @@
+
+export default {
+  success: 'success',
+  serverError: 'serverError',
+  apiNotFound: 'apiNotFound',
+  tokenVerifyFailed: 'tokenVerifyFailed',
+  dataAlreadyExisted: 'dataAlreadyExisted',
+  invalidParams: 'invalidParams',
+  requireAuth: 'requireAuth',
+  dataNotFound: 'dataNotFound',
+  noPermission: 'noPermission',
+  loginFailed: 'loginFailed',
+  passwordRequired: 'passwrodRequired',
+  bannedAccount: 'bannedAccount',
+  oldPasswordRequired: 'oldPasswordRequired',
+  newPasswordRequired: 'newPasswordRequired',
+  wrongPassword: 'wrongPassword',
+  fileNotFound: 'fileNotFound',
+  fileRequired: 'fileRequired',
+}
